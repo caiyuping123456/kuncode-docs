@@ -15,6 +15,7 @@
 | [VS Code + Copilot BYOK](./vscode-copilot) | VS Code | Chat Completions / Responses / Messages | VS Code model management | VS Code / system credentials | VS Code |
 | [Trae](./trae) | IDE | OpenAI Chat Completions / Anthropic Messages | Client model settings | Client credential store | Windows client |
 | [CodeBuddy](./codebuddy) | IDE / extension | OpenAI Chat Completions | `models.json` | `models.json` or client credentials | Windows client |
+| [Pi](./piagent) | Terminal | Chat Completions / Responses / Anthropic Messages | `~/.pi/agent/models.json` | `models.json`, `auth.json`, or environment variable | npm |
 
 > Paths and installation methods can change by version; check the tool page and official docs.
 
